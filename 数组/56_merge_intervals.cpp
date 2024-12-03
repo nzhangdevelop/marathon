@@ -1,4 +1,5 @@
 // 中等难度。
+// 是否beat 100%：否
 class Solution
 {
 public:
